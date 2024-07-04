@@ -46,7 +46,7 @@ O projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas" tem com
 -   Com isso, é possível entender a demanda de um produto em diferentes cenários, de acordo com os percentis apresentados (pessimista, normal e otimista). Dessa forma, pode-se tomar decisões com base nas interpretações dos valores e gráficos de cada produto, gerenciando o estoque de maneira inteligente.
 -   Realizei a exportação dos dados gerados, contendo os percentis e a média de todos os produtos listados, para obter uma visão geral dos dados.
 
-## 🤔 Melhorias e conclusão
+## 🚀 Melhorias e conclusão
 
 Por conseguinte, se eu tiver a oportunidade de aprimorar o modelo treinado no SageMaker Canvas para previsão de estoque inteligente, pretendo incluir novos dados como conjunto de teste para realizar predições conforme o modelo desenvolvido. Isso permitirá avaliar como ele se comporta com os dados adicionados e garantir uma precisão ainda maior nas previsões.
 
