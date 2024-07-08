@@ -48,7 +48,7 @@ O projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas" tem com
 
 ## 🚀 Melhorias e conclusão
 
-Por conseguinte, se eu tiver a oportunidade de aprimorar o modelo treinado no SageMaker Canvas para previsão de estoque inteligente, pretendo incluir novos dados como conjunto de teste para realizar predições conforme o modelo desenvolvido. Isso permitirá avaliar como ele se comporta com os dados adicionados e garantir uma precisão ainda maior nas previsões.
+Por conseguinte, com a intenção de aprimorar o modelo treinado no SageMaker Canvas para previsão de estoque inteligente, pretendo incluir novos dados como conjunto de teste para realizar predições conforme o modelo desenvolvido. Isso permitirá avaliar como ele se comporta com os dados adicionados e garantir uma precisão ainda maior nas previsões.
 
 Utilizar a ferramenta Amazon SageMaker Canvas foi fundamental para gerar insights valiosos a partir dos dados incorporados ao modelo de previsão, os quais podem ser facilmente aplicados no mundo real para apoiar decisões precisas. Aprendi de maneira intuitiva e eficiente a preparar, criar, treinar, gerar previsões e implantar modelos de ML, otimizando assim o gerenciamento e controle de estoque. Esse processo considera variáveis como promoções de produtos e renovação de estoque.
 
